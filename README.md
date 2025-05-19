@@ -12,6 +12,7 @@ This is my personal dotfiles setup, managed with [GNU Stow](https://www.gnu.org/
 .
 ├── bash       # .bashrc and related configs
 ├── btop       # btop system monitor settings
+├── git        # git config with useful aliases and shortcuts
 ├── neofetch   # neofetch config (with themes from Chick2D)
 ├── nvim       # Neovim config (using LazyVim)
 ├── tmux       # tmux configuration and plugins

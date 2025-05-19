@@ -45,6 +45,10 @@ source /home/linuxbrew/.linuxbrew/share/zsh-autosuggestions/zsh-autosuggestions.
 source /home/linuxbrew/.linuxbrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 alias spicetify='/mnt/c/Users/FLY/AppData/Local/spicetify/spicetify.exe'
 alias la='ls -a'
+alias g='git'
+alias gst='git status'
+alias gcm='git commit'
+
 
 #yazi cd
 function yz() {

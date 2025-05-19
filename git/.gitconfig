@@ -1,0 +1,21 @@
+# info
+
+[user]
+	email = dev.zahid.org@gmail.com
+	name = Zahid
+[credential]
+	helper = store
+[http]
+	timeout = 600
+[init]
+	defaultBranch = main
+
+#short-cuts
+
+[alias]
+  st = status
+  co = checkout
+  br = branch
+  cm = commit
+  lg = log --oneline --graph --decorate --all
+
