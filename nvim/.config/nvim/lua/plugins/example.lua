@@ -130,6 +130,8 @@ return {
         "python",
         "query",
         "regex",
+        "css",
+        "gitignore",
         "tsx",
         "typescript",
         "vim",
