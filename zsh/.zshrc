@@ -43,6 +43,14 @@ eval "$(oh-my-posh init zsh --config '/mnt/c/Users/FLY/AppData/Local/Programs/oh
 neofetch
 source /home/linuxbrew/.linuxbrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /home/linuxbrew/.linuxbrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+# nvim shortcut
+alias n='nvim'
+
+# explorer shortcut
+alias web='explorer.exe'
+
+# git shortcuts
 alias spicetify='/mnt/c/Users/FLY/AppData/Local/spicetify/spicetify.exe'
 alias la='ls -a'
 alias g='git'
